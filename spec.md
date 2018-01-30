@@ -288,6 +288,7 @@ and data).
 * Type:
 * Description:
 
+<<<<<<< HEAD
 ## Use Cases
 [WIP]  Use-case examples to help end users understand the value of CloudEvents.
 
@@ -360,6 +361,8 @@ OpenEvents can offer consistency in webhook publishing and consumption.
 
 ### IoT
 
+=======
+>>>>>>> dd33cf3... move use-cases to separate document
 ## Additional Topics & Questions
 
 * Context Attribute Names - We decided not to spend too much time on property
